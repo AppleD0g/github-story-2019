@@ -4,7 +4,7 @@
 
 
 
-[Click Here](https://github.com/AppleD0g/github-story-2019) to go to my github page
+[Link](https://github.com/AppleD0g/github-story-2019) here goes to my github page
 
 
 
