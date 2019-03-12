@@ -1,10 +1,10 @@
 # github-story-2019
 
-###### This is a set of HTML documents contains a 3 chapters long story about Spring.
+###### This is a set of HTML documents that contains 3 chapters long story about Spring.
 
 
 
-[Click Here](https://github.com/AppleD0g/github-story-2019) to go to my github page
+[Link](https://github.com/AppleD0g/github-story-2019) here goes to my github page
 
 
 
